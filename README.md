@@ -103,13 +103,9 @@ DMT-conversion/
 
 We welcome contributions to enhance the DMT Conversion Tool! Whether it's bug fixes, new features, or improvements to documentation, your input is valuable. Please feel free to fork the repository, make your changes, and submit a pull request.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details. (Note: A LICENSE.md file needs to be created or specified if available)
-
 ## 📧 Contact
 
-For any inquiries, support, or collaboration opportunities, please reach out to:
+For any inquiries, support, or collaboration opportunities, please reach out to: rashidabbasi17@gmail.com
 
 [Your Name/Organization Name]
 [Your Email Address]
